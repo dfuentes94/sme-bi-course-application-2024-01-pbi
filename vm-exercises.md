@@ -75,3 +75,4 @@
 
 *Add an image of the final visualization here.*
 
+![image](https://github.com/dfuentes94/sme-bi-course-application-2024-01-pbi/assets/84543411/86bea731-f5b8-45ca-9d72-a504ad67d94d)
