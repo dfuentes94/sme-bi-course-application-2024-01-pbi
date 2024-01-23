@@ -43,7 +43,7 @@ How much was purchased by Members from "Accessories" Product Lines and paid by E
 
 #### End goal:
 
-![Alt text](exercises\ex-1-sol.png)
+![Alt text](https://github.com/dfuentes94/sme-bi-course-application-2024-01-pbi/blob/master/exercises/ex-1-sol.png)
 
 
 ## 2nd VM Exercise
