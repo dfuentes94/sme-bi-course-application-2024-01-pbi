@@ -26,8 +26,6 @@ Most dashboards provide a general overview. Sometimes we need to do a deep dive 
 
 #### Steps to be executed by the student (max 6)
 
-*Each bulleted instruction is a complete sentence that describes a specific task.*
-
 - Open the "SupermarketSales" Dashboard in Power BI Service
 - Open the "Overview" page in view "Fit to page"
 - Using "Filters on all pages" available, filter the "Customer type" to show only "Member" data
@@ -35,6 +33,7 @@ Most dashboards provide a general overview. Sometimes we need to do a deep dive 
 - Select and cross-highlight the "Payment Method" to show only purchases by "Ewallet"
 
 #### Exercise question:
+
 How much was purchased by Members from "Accessories" Product Lines and paid by Ewallet? (rounded to 0 decimals)
 - 1. $10,811
 - 2. $15,992
@@ -67,8 +66,6 @@ Visualizations can be shown at different levels of details. For example: sales o
 
 #### Steps to be executed by the student (max 6)
 
-*Each bulleted instruction is a complete sentence that describes a specific task.*
-
 - Open the "Locations" page in the "SupermarketSales" Dashboard in Power BI Service
 - On the "Total Sales by City" visualization, sort city names descending by Total Sales
 - Filter all report by city, showing only the city with the highest sales
@@ -76,6 +73,7 @@ Visualizations can be shown at different levels of details. For example: sales o
 - On the "Sales and Average Rating by Day" visualization, drill up to show data by month
 
 #### Exercise question:
+
 How much was the Average Rating for the first half of February 2019 in the city of highest sales overall? (rounded to 2 decimals)
 - 1. 7.01
 - 2. 7.07 
@@ -83,7 +81,5 @@ How much was the Average Rating for the first half of February 2019 in the city 
 - 4. 7.30 (right answer)
 
 #### End goal:
-
-*Add an image of the final visualization here.*
 
 ![image](https://github.com/dfuentes94/sme-bi-course-application-2024-01-pbi/blob/master/exercises/ex-2-sol.png)
