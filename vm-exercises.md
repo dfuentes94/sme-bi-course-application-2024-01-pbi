@@ -9,36 +9,42 @@
 
 #### Dataset
 
-- [ ] Add datasets used to the `datasets/` folder
+- [x] Added dataset used to the `datasets/` folder: `supermarket_sales.xlsx`
 
 #### Files
 
-- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix` or `ex-1-initial.yxmd`, depending if you are auditioning for a Tableau/Power BI/Alteryx course.
-- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix` or `ex-1-sol.yxmd`
+- [x] **Initial**: Added file to the `exercises/`  folder with the name `ex-1-intial.pbix`, as I'm auditioning for a Power BI course.
+- [x] **Solution**: Added file to the `exercises/`  folder with the name `ex-1-sol.pbix`
 
 #### Learning Objective
 
-*One measurable learning objective that this exercise assesses*
+Know how to use the Filters Pane and the Cross-Highlight options in the Power BI Service
 
 #### Context
 
-*3 - 4 sentence description of why it’s important to learn how to do this task (linking back to the learning objective). Explain how this would be used in a real-life situation. Why is it useful, what problem does it solve?*
+Most dashboards provide a general overview. Sometimes we need to do a deep dive to understand the underlying data behind certain category. For example, imagine if you're a Regional Sales Manager and you need to know the sales trend of a specific country, or which are your less profitable products, in order to take better decisions based on that data.
 
 #### Steps to be executed by the student (max 6)
 
 *Each bulleted instruction is a complete sentence that describes a specific task.*
 
-- Step 1
-- Step 2
-- Step 3
-- ...
+- Open the "SupermarketSales" Dashboard in Power BI Service.
+- Open the "Overview" page in view "Fit to page"
+- Using "Filters on all pages" available, filter the "Customer type" to show only "Member" data
+- Filter the "Product line" to show only categories that contain "accessories" in their name
+- Select and cross-highlight the "Payment Method" to show only purchases by "Ewallet"
 
 #### Exercise question:
-*This is a question presented to learners to check if the steps above were properly completed. It can be a multiple choice question or a question with a 1-3 word answer. It is often not possible to check if all the steps are completed, in this case; the priority is to check that the learner meets the learning objective.*
+How much was purchased by Members from "Accessories" Product Lines and paid by Ewallet? (rounded to 0 decimals)
+- 1. $10,811
+- 2. $15,992
+- 3. $19,969 (right answer)
+- 4. $26,324
 
 #### End goal:
 
-*Add an image of the final visualization here.*
+![Alt text](exercises\ex-1-sol.png)
+
 
 ## 2nd VM Exercise
 
